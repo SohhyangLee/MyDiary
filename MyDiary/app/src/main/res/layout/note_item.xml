@@ -37,7 +37,7 @@
                 android:id="@+id/contentsTextView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="내용"
+                android:text="Contents"
                 android:textSize="24sp" />
 
             <RelativeLayout
